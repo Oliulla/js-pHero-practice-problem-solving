@@ -1,3 +1,4 @@
+// Find second largest number from an Array
 const arr = [64, 37, 28, 80, 10, 84];
 function secondLargest(n) {
     let firstL = n[0];

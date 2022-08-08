@@ -1,3 +1,4 @@
+// Change one object property's value
 const player = {
     fname: "Mustafizur",
     lname: "Rahman",
