@@ -8,5 +8,5 @@ function multiplicationTable(n) {
     }
     return empArr;
 }
-let getResult = multiplicationTable(10);
-console.log(getResult)
+let getResult = multiplicationTable(20);
+console.log(getResult);
